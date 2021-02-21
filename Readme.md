@@ -1,4 +1,4 @@
-# EXTENDIBLE HASING 
+# Extendible Hashing
 
 
 HOW TO RUN
