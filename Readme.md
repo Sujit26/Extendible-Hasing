@@ -1,17 +1,15 @@
-NAME    ::  SUJIT JAIWALIYA
-ROLL NO ::  2017CSB11115
+NAME    ::  SUJIT JAIWALIYA             ROLL NO ::  2017CSB11115
 
-EXTENDIBLE HASING
+# EXTENDIBLE HASING
 
 
 HOW TO RUN
 ----------
-1. Extract the zip file
-3. To run the code type `python3 E_Hashing.py`
-4. This will start the code and will ask you to enter the metadata required to run the code. viz. bucket_size and a boolean to show logs.
-5. The code will present you with multiple options which can be used to check the correctness of the code.
+    1. Extract the zip file
+    3. To run the code type `python3 E_Hashing.py`
+    4. This will start the code and will ask you to enter the metadata required to run the code. viz. bucket_size and a boolean to show logs.
+    5. The code will present you with multiple options which can be used to check the correctness of the code.
 # Options
-
     ------------Menu------------
     1 : Data Generation
     2 : Simulate Secondary Memory
@@ -46,11 +44,11 @@ HOW TO RUN
 Directory Structure
 ----------------------
 
-                                       |------> Transaction1
-Directory                              |------> Transaction2
-    Directory_Record1  ---> bucket ----|------> Transaction3
-    Directory_Record2                  |------> Transaction4
-    Directory_Record3 
-    Directory_Record4
-    ..
-    ..
+                                           |------> Transaction1
+    Directory                              |------> Transaction2
+        Directory_Record1  ---> bucket ----|------> Transaction3
+        Directory_Record2                  |------> Transaction4
+        Directory_Record3 
+        Directory_Record4
+        ..
+        ..
